@@ -8,4 +8,8 @@ def format_position(lat, long):
     return formatPosition
 
 
+def calculate_sum(p1, p2):
+    return calculate_sum
+
+
 print(format_position(-52.33, 120.00))
